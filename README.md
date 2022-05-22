@@ -1,2 +1,3 @@
-# franchisee
-A franchisee management software based on Bhojpur.NET platform
+# Yunica Franchisee - Marketplace Engagement Engine
+
+A franchisee engagement engine software based on Bhojpur.NET platform
